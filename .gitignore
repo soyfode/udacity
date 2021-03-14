@@ -1,0 +1,16 @@
+*.aux
+*.log
+*.out
+*.gz
+*.toc
+*.gnuplot
+*.table
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.json
+.Rproj.user
+.dvi
+.RData
+.Rhistory
